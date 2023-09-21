@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
 
         textResult = findViewById(R.id.text_result);
         e1 = findViewById(R.id.number_input1);
-
         e2 = findViewById(R.id.number_input2);
 
         b1 = findViewById(R.id.button1);
